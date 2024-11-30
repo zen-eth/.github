@@ -7,7 +7,7 @@ Zeneth continues to build Ethereum public goods around the Zig ecosystem.
 ## Our works
 
 - [zephyrus](https://github.com/zen-eth/zephyrus) is an ethereum consensus client written in Zig.
-
+- [multiformats-zig](https://github.com/zen-eth/multiformats-zig) This is the zig implementation of the [multiformats](https://github.com/multiformats/multiformats).
 <!--
 
 **Here are some ideas to get you started:**

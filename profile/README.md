@@ -1,4 +1,12 @@
-## Hi there 👋
+## Zeneth
+
+Zeneth (pronounced 'zenith', which means 'peak / highest point'. As long ago as 1300s 'zenith' meant the highest point in the celestial heavens), zeneth originates from the synthesis of zen(a philosophy and practice that originates from Chinese Zen Buddhism) and eth.
+
+Zeneth continues to build Ethereum public goods around the Zig ecosystem.
+
+## Our works
+
+- [zephyrus](https://github.com/zen-eth/zephyrus) is an ethereum consensus client written in Zig.
 
 <!--
 

@@ -9,6 +9,7 @@ Zeneth continues to build Ethereum public goods, especially around the Zig ecosy
 - [zig-libp2p](https://github.com/zen-eth/zig-libp2p) is a [libp2p](https://github.com/libp2p/specs) implementation written in Zig.
 - [multiformats-zig](https://github.com/zen-eth/multiformats-zig) is a zig implementation of the [multiformats](https://github.com/multiformats/multiformats).
 - [noiz](https://github.com/zen-eth/noiz) is a [noise](https://noiseprotocol.org/) protocol implementation written in Zig.
+- [shisui](https://github.com/zen-eth/shisui) is an ethereum [portal](https://github.com/ethereum/portal-network-specs) network client written in Go.
 <!--
 
 **Here are some ideas to get you started:**

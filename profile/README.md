@@ -2,12 +2,13 @@
 
 Zeneth (pronounced 'zenith', which means 'peak / highest point'. As long ago as 1300s 'zenith' meant the highest point in the celestial heavens), zeneth originates from the synthesis of zen(a philosophy and practice that originates from Chinese Zen Buddhism) and eth.
 
-Zeneth continues to build Ethereum public goods around the Zig ecosystem.
+Zeneth continues to build Ethereum public goods, especially around the Zig ecosystem.
 
 ## Our works
 
-- [zephyrus](https://github.com/zen-eth/zephyrus) is an ethereum consensus client written in Zig.
+- [zig-libp2p](https://github.com/zen-eth/zig-libp2p) is a [libp2p](https://github.com/libp2p/specs) implementation written in Zig.
 - [multiformats-zig](https://github.com/zen-eth/multiformats-zig) is a zig implementation of the [multiformats](https://github.com/multiformats/multiformats).
+- [noiz](https://github.com/zen-eth/noiz) is a [noise](https://noiseprotocol.org/) protocol implementation written in Zig.
 <!--
 
 **Here are some ideas to get you started:**
